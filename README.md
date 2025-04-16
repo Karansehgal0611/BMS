@@ -95,7 +95,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 Karan Sehgal
 B.Tech CSE – Vellore Institute of Technology
-GitHub Profile
 
 ---
 ### 📄 License
